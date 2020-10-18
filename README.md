@@ -1,4 +1,4 @@
-# intro-to-github
+# Introduction to GitHub Workshop
 This repository (repo) is meant to be used as a supplemental resource for the Introduction to GitHub workshop.
 
 # What to do?
