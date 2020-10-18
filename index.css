@@ -1,11 +1,13 @@
 .card {
-  background-color: var(--background);
   display: block;
-  width: 300px;
-  min-height: 90px;
+  background-color: var(--background);
+  min-width: 300px;
+  width: 33vw;
+  min-height: 200px;
+  height: 20vh;
   cursor: pointer;
   padding: 15px;
-  margin: calc(50vh - 30px) auto 0 auto;
+  margin: calc(10vh - 15px) auto auto auto;
   border: 3px solid var(--primary);
   box-shadow: 10px -10px 0 -3px var(--background), 10px -10px var(--green),
         20px -20px 0 -3px var(--background), 20px -20px var(--yellow),
